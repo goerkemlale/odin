@@ -3,3 +3,12 @@
 	font-size: 40;
 	background-color: black;
 }
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+
