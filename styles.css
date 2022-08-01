@@ -6,9 +6,11 @@
 
 .subsection.header {
   color: red;
+  background-color: black;
 }
 
 .subsection#preview {
   color: blue;
+  background-color: gray;
 }
 
